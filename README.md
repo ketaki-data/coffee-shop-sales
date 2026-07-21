@@ -49,4 +49,9 @@ The goal of this analysis is to evaluate revenue trends, identify peak operation
 
 ---
 
+├── data/                  # Raw and cleaned dataset files (or sample files)
+├── sql/                   # SQL scripts for data transformation & aggregation
+├── reports/               # Power BI project file (.pbix) & exported PDF/Image
+└── README.md              # Project documentation
+
 ## 📂 Repository Structure
