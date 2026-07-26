@@ -60,3 +60,8 @@ The goal of this analysis is to evaluate revenue trends, identify peak operation
 ── reports/               # Power BI project file (.pbix) & exported PDF/Image
 
 ── README.md              # Project documentation
+
+
+
+<img width="1558" height="730" alt="coffee shop sales pic" src="https://github.com/user-attachments/assets/f73c093f-d1da-4ef9-9ffa-dce68ea5a5e4" />
+
